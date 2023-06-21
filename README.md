@@ -1,5 +1,9 @@
 # Praktikum 1 WEB
 
+## Zugriff
+
+https://laptique.github.io/public/index.html
+
 ## Aufgabestellung
 
 In dieser Aufgabe soll eine 
