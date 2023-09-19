@@ -97,8 +97,7 @@ Unsere letzte Änderung an der Website war das Hinzufügen einer speziellen Fuß
 
 In Woche 3 hatte unser Team die Website vollständig fertiggestellt. Wir haben es auch geschafft, die vorgegebene Frist einzuhalten, genau wie der Kunde es wollte. 
 
-Alle erforderlichen Dateien wurden auf die Git-Domain hochgeladen, unter https://sebot002.pages.ide3.de/praktikum-1-web/.
-von dem aus der Kunde auf seine Website zugreifen kann.
+
 
 
 
