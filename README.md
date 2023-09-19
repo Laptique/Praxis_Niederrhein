@@ -1,4 +1,4 @@
-# Praktikum 1 WEB
+# Praktikum 1 Web-Engineering
 
 ## Zugriff
 
@@ -29,7 +29,7 @@ Das Pflichtenheft befindet sich [hier](./PFLICHTENHEFT.md)
 
 Die Dokumentation befindet sich [hier](./Dokumentation/DOKUMENTATION.md)
 
-## Team
+## Copyright©  
 
 - Sebastian Botezatu
-- Sinan Yildirim
+
