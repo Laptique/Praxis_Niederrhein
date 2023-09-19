@@ -66,4 +66,4 @@ Alle Rückfragen müssen geklärt sein, alle Anforderungen müssen erfüllt sein
 
 ## Rückfragen
 
-Bei Rückfragen kontaktieren sie uns unter unserer Email.
+Bei Rückfragen kontaktieren Sie uns unter unserer Email.
