@@ -2,7 +2,7 @@
 
 ## Zugriff
 
-https://laptique.github.io/public/index.html
+[https://laptique.github.io/public/index.html](https://laptique.github.io/public/index.html)
 
 ## Aufgabestellung
 
